@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GJones81/mern-server-boiler.git"
+    "url": "git+https://github.com/GJones81/Gopher_Server.git"
   },
   "bugs": {
-    "url": "https://github.com/GJones81/mern-server-boiler/issues"
+    "url": "https://github.com/GJones81/Gopher_Server/issues"
   },
-  "homepage": "https://github.com/GJones81/mern-server-boiler#readme"
+  "homepage": "https://github.com/GJones81/Gopher_Server#readme"
 }
