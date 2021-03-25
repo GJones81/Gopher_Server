@@ -27,5 +27,6 @@
   "bugs": {
     "url": "https://github.com/GJones81/Gopher_Server/issues"
   },
-  "homepage": "https://github.com/GJones81/Gopher_Server#readme"
+  "homepage": "https://github.com/GJones81/Gopher_Server#readme",
+  "devDependencies": {}
 }
